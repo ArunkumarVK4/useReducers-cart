@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #fff;
+}
+
+.user-inferface {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  gap: 0.5 rem;
+}
+.prod-info {
+  padding: 12px;
+  background-color: #ccc;
+}
+img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
